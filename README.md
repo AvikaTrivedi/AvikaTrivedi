@@ -1,8 +1,12 @@
 
-package main\n
+package main
+
 // Ufff
-import fmt\n
+
+import fmt
 
 func main(){
+
 fmt.Println("Offline due to studies")
+
 }
