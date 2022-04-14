@@ -33,11 +33,12 @@ fmt.Println("Offline due to studies")
 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AvikaTrivedi&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AvikaTrivedi&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvikaTrivedi&theme=tokyonight&hide=batchfile">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AvikaTrivedi&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvikaTrivedi&theme=tokyonight&hide=batchfile"><br><br>
 
 
 
 
 <h1 align="center"><b>hello kid</b></h1>
 
-Lol
+<from name="sed">
+<input type="username" method="post"> 
