@@ -42,3 +42,4 @@ fmt.Println("Offline due to studies")
 
 <from name="sed">
 <input type="username" method="post"> 
+</form>
