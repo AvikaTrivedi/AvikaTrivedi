@@ -39,7 +39,21 @@ fmt.Println("Offline due to studies")
 
 
 <h1 align="center"><b>hello kid</b></h1>
+<!DOCTYPE html>
+<html>
+<body>
 
-<from name="sed">
-<input type="username" method="post"> 
+<h1>Form with radio buttons</h1>
+
+<form action="/action_page.php" method="get">
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">HTML</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS" checked="checked">
+  <label for="css">CSS</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">JavaScript</label><br><br>
+  <input type="submit" value="Submit">
 </form>
+
+</body>
+</html>
